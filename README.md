@@ -6,6 +6,9 @@ este programa es un trabajo simple con algunas librerias de python para realizar
 para ejecutar este codigo se requieren de las siguientes librerias
 
 • numpy
+
 • tensorflow
+
 • matplotlib
+
 • scikit-learn
